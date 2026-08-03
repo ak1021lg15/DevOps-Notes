@@ -358,3 +358,7 @@ Docker Hub is a cloud-based container registry used to store, share, and distrib
 - Docker Compose is used for multi-container applications.
 
 ---
+
+# 👩‍💻 Author
+
+**Ashish Kumar**
