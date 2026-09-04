@@ -33,7 +33,7 @@ For a small team (e.g., 5 developers), safe manual deployment is typically limit
 - Deliver faster as the code is tested
 
 
-    ![alt text](image.png)
+    ![image one](imageOne.png)
 
 ## Continuous Delivery
 - UI and application-specific artifacts are made available on web servers
@@ -43,7 +43,7 @@ For a small team (e.g., 5 developers), safe manual deployment is typically limit
 - Usually involves automated deployment (e.g., CodeDeploy, Jenkins CD, Spinnaker...)
 
 
-    ![alt text](image-1.png)
+    ![image two](imageTwo.png)
 
 ## Continuous Deployment
 - Every change that passes automated tests is automatically deployed to production
@@ -56,7 +56,7 @@ For a small team (e.g., 5 developers), safe manual deployment is typically limit
 
 ## Continuous Delivery & Continuos Deployment
 
-![alt text](image-2.png)
+![image three](imageThree.png)
 
 
 ## CI/CD Workflow
@@ -73,7 +73,7 @@ For a small team (e.g., 5 developers), safe manual deployment is typically limit
 
 
 
-![alt text](image-3.png)
+![image four](imageFour.png)
 
 
 
