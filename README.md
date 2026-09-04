@@ -7,17 +7,17 @@ This repository serves as a central hub for my DevOps learning resources and che
 
 ### Linux
 
-1. **[Linux Fundamentals](linux/1.linux_fundamentals.md)**  
+1. **[Linux Fundamentals](Linux/1.linux_fundamentals.md)**  
    
-2. **[Processes and Services](linux/2.processes_and_services.md)**  
+2. **[Processes and Services](Linux/2.processes_and_services.md)**  
    
-3. **[Linux Troubleshooting](linux/3.linux_troubleshooting.md)**  
+3. **[Linux Troubleshooting](Linux/3.linux_troubleshooting.md)**  
 
-4. **[File Management](linux/4.file_management.md)**  
+4. **[File Management](Linux/4.file_management.md)**  
    
-5. **[User Management](linux/5.user_management.md)**  
+5. **[User Management](Linux/5.user_management.md)**  
    
-6. **[Disk Management](linux/6.disk_management.md)**  
+6. **[Disk Management](Linux/6.disk_management.md)**  
 
-7. **[Linux commands Cheatsheet](linux/7.cheatsheet.md)**
+7. **[Linux commands Cheatsheet](Linux/7.cheatsheet.md)**
 
