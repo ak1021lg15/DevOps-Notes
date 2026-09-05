@@ -42,3 +42,5 @@ This repository serves as a central hub for my DevOps learning resources and che
 4. **[Docker Volumes](Docker/4.docker_volumes.md)**
 
 5. **[Docker Network](Docker/5.docker_networks.md)**
+
+6. **[Docker Compose](Docker/6.docker_compose.md)**
