@@ -54,3 +54,7 @@ This repository serves as a central hub for my DevOps learning resources and che
 ### CICD Basics
 
 1. **[CICD Basics](CICD/cicd_basic.md)**
+
+### Github Actions
+
+1. **[Basics](github-actions/basics.md)**
