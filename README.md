@@ -57,4 +57,4 @@ This repository serves as a central hub for my DevOps learning resources and che
 
 ### Github Actions
 
-1. **[Basics](github-actions/basics.md)**
+1. **[Basics](github-actions/1.basics.md)**
