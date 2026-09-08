@@ -50,3 +50,7 @@ This repository serves as a central hub for my DevOps learning resources and che
 ### YAML Basics
 
 1. **[YAML Basics](YAML/yaml.md)**
+
+### CICD Basics
+
+1. **[CICD Basics](CICD/cicd_basic.md)**
