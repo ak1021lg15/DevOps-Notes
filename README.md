@@ -46,3 +46,7 @@ This repository serves as a central hub for my DevOps learning resources and che
 6. **[Docker Compose](Docker/6.docker_compose.md)**
 
 7. **[Docker Cheatsheet](Docker/cheatsheet.md)**
+
+### YAML Basics
+
+1. **[YAML Basics](YAML/yaml.md)**
