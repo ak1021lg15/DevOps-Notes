@@ -66,3 +66,5 @@ This repository serves as a central hub for my DevOps learning resources and che
 4. **[Actions](github-actions/4.actions.md)**
 
 5. **[Env-Secrets](github-actions/5.env-secrets.md)**
+
+6. **[Expression-Contexts](github-actions/6.expressions-contexts.md)**
