@@ -64,3 +64,5 @@ This repository serves as a central hub for my DevOps learning resources and che
 3. **[Jobs-Steps](github-actions/3.jobs-steps.md)**
 
 4. **[Actions](github-actions/4.actions.md)**
+
+5. **[Env-Secrets](github-actions/5.env-secrets.md)**
