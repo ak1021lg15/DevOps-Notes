@@ -72,3 +72,5 @@ This repository serves as a central hub for my DevOps learning resources and che
 7. **[Artifacts-Caching](github-actions/7.artifacts-caching.md)**
 
 8. **[Matrix-Strategy](github-actions/8.matrix-strategy)**
+
+9. **[Cheatsheet.md](github-actions/cheatsheet)**
