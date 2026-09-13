@@ -79,4 +79,4 @@ This repository serves as a central hub for my DevOps learning resources and che
 
 1. **[K8s Architecture](Kubernetes/1.architecture.md)**
 
-2. **[K8s Pod](Kubernetes/pods.md)**
+2. **[K8s Pod](Kubernetes/2.pods.md)**
