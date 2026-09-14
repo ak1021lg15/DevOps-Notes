@@ -81,4 +81,4 @@ This repository serves as a central hub for my DevOps learning resources and che
 
 2. **[K8s Pod](Kubernetes/2.pods.md)**
 
-3. **[K8s NameSpace-Deployment](Kubernetes/namespaces-deployments.md)**
+3. **[K8s NameSpace-Deployment](Kubernetes/3.namespaces-deployments.md)**
