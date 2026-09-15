@@ -86,3 +86,5 @@ This repository serves as a central hub for my DevOps learning resources and che
 4. **[K8s Services](Kubernetes/4.services.md)**
 
 5. **[K8s ConfigMap-Secrets](Kubernetes/5.configmaps-secrets.md)**
+
+6. **[K8s Persistent-Volumes](Kubernetes/persistent-volumes.md)**
