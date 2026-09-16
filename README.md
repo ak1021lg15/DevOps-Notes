@@ -91,4 +91,4 @@ This repository serves as a central hub for my DevOps learning resources and che
 
 7. **[K8s StatefulSets](Kubernetes/7.statefulsets.md)**
 
-8. **[K8s Hpa](Kubernetes/metrics-hpa.md)**
+8. **[K8s Hpa](Kubernetes/8.metrics-hpa.md)**
