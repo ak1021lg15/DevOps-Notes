@@ -89,4 +89,4 @@ This repository serves as a central hub for my DevOps learning resources and che
 
 6. **[K8s Persistent-Volumes](Kubernetes/6.persistent-volumes.md)**
 
-7. **[K8s StatefulSets](Kubernetes/statefulsets.md)**
+7. **[K8s StatefulSets](Kubernetes/7.statefulsets.md)**
