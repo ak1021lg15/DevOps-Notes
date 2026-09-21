@@ -100,3 +100,7 @@ This repository serves as a central hub for my DevOps learning resources and che
 ### Helm
 
 1. **[Helm](Helm/helm.md)**
+
+### Terraform
+
+1. **[Terraform Intro](Terraform/terraform-intro.md)**
