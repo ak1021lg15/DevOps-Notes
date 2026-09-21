@@ -103,4 +103,4 @@ This repository serves as a central hub for my DevOps learning resources and che
 
 ### Terraform
 
-1. **[Terraform Intro](Terraform/terraform-intro.md)**
+1. **[Terraform Intro](Terraform/1.terraform-intro.md)**
