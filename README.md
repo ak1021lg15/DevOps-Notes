@@ -108,3 +108,5 @@ This repository serves as a central hub for my DevOps learning resources and che
 2. **[Terraform Providers,Resources,Dependencies](Terraform/2.terraform-providers-resources.md)**
 
 3. **[Terraform Variables,Outputs,Datasources](Terraform/3.terraform-variables-outputs-datasources.md)**
+
+4. **[Terraform State Management](Terraform/terraform-state-management.md)**
