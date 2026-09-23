@@ -113,5 +113,5 @@ This repository serves as a central hub for my DevOps learning resources and che
 
 5. **[Terraform Modules](Terraform/5.terraform-modules.md)**
 
-6. **[Terraform Cheatsheet](Terraform/terraform-cheatsheet.md)**
+6. **[Terraform Cheatsheet](Terraform/6.terraform-cheatsheet.md)**
 
